@@ -1,7 +1,3 @@
-.vscode
-__pycache__
-*.pyc
-*.pyo
-node_modules
-*.log
+.github/workflows
+Loan_default.csv
 
